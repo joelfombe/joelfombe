@@ -24,14 +24,14 @@
 ## ✅ Fallow Me
 > follow my social media, if you want to contact me directly send an email [click here](mailto:joeljuniormanuel@gmail.com)
 <a href="https://discord.com/users/elprincipejr">
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/elprincipejr)
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
 <a/>
 <a href="https://www.instagram.com/el_principe_jr/">
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/el_principe_jr/)
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 <a/>
 <a href="https://www.linkedin.com/in/joel-j%C3%BAnior-manuel-fombe-413834238/">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-j%C3%BAnior-manuel-fombe-413834238/)
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin">
 <a/>
 <a href="https://twitter.com/Joeljuniormanu1">
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/Joeljuniormanu1)
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
 <a/>
